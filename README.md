@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`Todo-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a Reactjs project bootstrapped with [`Todo-app`].
+
+![rtodo](https://github.com/Virang007/Todo-React-js/assets/104147123/e723d6a0-1a0e-4e6d-b315-2b570fb351d6)
+
 
 ## Getting Started
 
